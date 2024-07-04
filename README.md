@@ -135,3 +135,6 @@ You can run QGroundControl to perform calibration steps without changes inside t
 ## Notes
 - Ensure that each time you modify a launch file or a Python file, you rebuild and source the workspace.
 - This guide assumes a working knowledge of ROS 2, Linux, and networking. Adjust IP addresses and parameters as needed for your specific setup.
+
+## Acknowledgments
+This instructions was developed by Prof. V. Hugle and with contributions from the robotics community at the University of Toulon.
